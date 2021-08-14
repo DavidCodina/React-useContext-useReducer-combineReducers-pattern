@@ -1,5 +1,5 @@
-import React           from 'react'; 
-import { Page, Title } from '../shared';
+import React    from 'react'; 
+import { Page } from '../shared';
 
 
 export function NotFoundPage(){

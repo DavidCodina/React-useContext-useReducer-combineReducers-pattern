@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-useContext-useReducer-combineReducers-pattern/static/css/main.c61625ad.chunk.css",
+    "main.js": "/React-useContext-useReducer-combineReducers-pattern/static/js/main.2bf789a6.chunk.js",
+    "main.js.map": "/React-useContext-useReducer-combineReducers-pattern/static/js/main.2bf789a6.chunk.js.map",
+    "runtime-main.js": "/React-useContext-useReducer-combineReducers-pattern/static/js/runtime-main.2fc246e2.js",
+    "runtime-main.js.map": "/React-useContext-useReducer-combineReducers-pattern/static/js/runtime-main.2fc246e2.js.map",
+    "static/js/2.e3932a4b.chunk.js": "/React-useContext-useReducer-combineReducers-pattern/static/js/2.e3932a4b.chunk.js",
+    "static/js/2.e3932a4b.chunk.js.map": "/React-useContext-useReducer-combineReducers-pattern/static/js/2.e3932a4b.chunk.js.map",
+    "index.html": "/React-useContext-useReducer-combineReducers-pattern/index.html",
+    "static/css/main.c61625ad.chunk.css.map": "/React-useContext-useReducer-combineReducers-pattern/static/css/main.c61625ad.chunk.css.map",
+    "static/js/2.e3932a4b.chunk.js.LICENSE.txt": "/React-useContext-useReducer-combineReducers-pattern/static/js/2.e3932a4b.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/React-useContext-useReducer-combineReducers-pattern/static/media/bootstrap-icons.dfd0ea12.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fc246e2.js",
+    "static/js/2.e3932a4b.chunk.js",
+    "static/css/main.c61625ad.chunk.css",
+    "static/js/main.2bf789a6.chunk.js"
+  ]
+}

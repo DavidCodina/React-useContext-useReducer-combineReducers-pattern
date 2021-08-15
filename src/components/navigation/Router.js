@@ -1,8 +1,10 @@
-import React             from 'react';
-import { Route, Switch } from 'react-router-dom';
-import { HomePage  }     from '../pages/HomePage';
-import { AboutPage  }    from '../pages/AboutPage';
-import { NotFoundPage }  from '../pages/NotFoundPage';
+import React                from 'react';
+import { Route, Switch, Redirect } from 'react-router-dom';
+import { CounterPage  }     from '../pages/CounterPage';
+import { RandomNumberPage } from '../pages/RandomNumberPage';
+import { TodosPage  }       from '../pages/TodosPage';
+import { AboutPage  }       from '../pages/AboutPage';
+import { NotFoundPage }     from '../pages/NotFoundPage';
 
 
 const Router = (props) => {
@@ -10,12 +12,34 @@ const Router = (props) => {
 
   return (
     <Switch>  
+      <Route exact path="/">
+        <Redirect to="/about" /> 
+      </Route>
+
+
       <Route 
-        exact path="/"
+        exact path="/counter"
         render={(props) => {
-          return <HomePage {...props} value={value}  />;
+          return <CounterPage {...props} value={value}  />;
         }}
       />
+
+
+      <Route 
+        exact path="/randomnumber"
+        render={(props) => {
+          return <RandomNumberPage {...props} value={value}  />;
+        }}
+      />
+
+
+      <Route 
+        exact path="/todos"
+        render={(props) => {
+          return <TodosPage {...props} value={value}  />;
+        }}
+      />
+
       
       <Route 
         exact path="/about"

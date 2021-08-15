@@ -1,6 +1,7 @@
 import { combineReducers } from '../../redux-helpers';
 import countReducer        from './countReducer';
 import randomNumberReducer from './randomNumberReducer';
+import todoReducer         from './todoReducer';
 
 
 ////////////////////////////////////////////////////////////////////////////////
@@ -51,5 +52,6 @@ import randomNumberReducer from './randomNumberReducer';
 // state, and so 'State' is appended to the end of each property.
 export const rootReducer = combineReducers({
   countState:        countReducer,
-  randomNumberState: randomNumberReducer
+  randomNumberState: randomNumberReducer,
+  todoState:         todoReducer
 });

@@ -3,21 +3,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
 
 
-$radical-red:#FF355E;
-$wild-watermelon:#FD5B78;
-$outrageous-orange:#FF6037;
-$atomic-tangerine:#FF9966;
-$neon-carro:#FF9933;
-$sunglow:	#FFCC33;
-$laser-lemon:	#FFFF66;
-$electric-lime:#CCFF00;
-$screamin-green:#66FF66;
-$magic-mint:#AAF0D1;
-$blizzard-blue:#50BFE6;
-$shocking-pink:#FF6EFF;
-$razzle-dazzle-rose:#EE34D2;
-$hot-magenta:#FF00CC;
-
 html {
   max-width: 100%;
   overflow-x:hidden;
@@ -307,11 +292,11 @@ pre {
 }
 
 .horizontal-ruler.red {
-  border-top: 1px solid $radical-red;
+  border-top: 1px solid #FF355E;
 }
 
 .horizontal-ruler.red > hr {
-  background-color: $radical-red;
+  background-color: #FF355E;
 }
 
 
@@ -437,10 +422,6 @@ pre {
 ========================= */
 
 
-.todos-list li:hover {
-  box-shadow: 0 0 0 1px var(--bs-pink);
-}
-
 .custom-link {
   flex: 1;
   cursor: pointer;
@@ -495,7 +476,6 @@ pre {
 }
 
 // ...
-
 
   
 /* =============================================================================

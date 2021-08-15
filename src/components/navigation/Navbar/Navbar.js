@@ -147,7 +147,9 @@ export function Navbar({ brand = "DavTek Industries" }){
 
         <div ref={collapseRef} className={collapseClassName} style={collapseStyle}>
           <div className="navbar-nav ms-auto">
-            <NavLink className="nav-link" activeClassName="active-link" to="/about">About</NavLink>
+            <NavLink className="nav-link" activeClassName="active-link" to="/counter">Counter</NavLink>
+            <NavLink className="nav-link" activeClassName="active-link" to="/randomnumber">Random N</NavLink>
+            <NavLink className="nav-link" activeClassName="active-link" to="/todos">Todos</NavLink>
           </div>
         </div>{/* End of <div className collapse navbar-collapse"> */}
       </div>{/* End of <div className="container-fluid"> */}

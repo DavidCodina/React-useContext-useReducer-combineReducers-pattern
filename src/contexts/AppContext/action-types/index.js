@@ -14,3 +14,12 @@ export const RESET_COUNT     = 'RESET_COUNT';
 // actions because when an action is dispatched it goes to ALL reducers!
 export const RANDOMIZE_NUMBER = 'RANDOMIZE_NUMBER';
 
+
+// To do Action Types
+export const GET_TODOS         = 'GET_TODOS';
+export const SET_TODOS_LOADING = 'SET_TODOS_LOADING';
+export const SET_TODOS_ERROR   = 'SET_TODOS_ERROR';
+export const GET_TODO          = 'GET_TODO';
+export const SET_TODO_LOADING  = 'SET_TODO_LOADING';
+export const SET_TODO_ERROR    = 'SET_TODO_ERROR';
+

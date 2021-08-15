@@ -1,0 +1,13 @@
+//!
+
+//!    axios.defaults.validateStatus = function(status){ return true; };
+
+//!  Antipattern:
+
+//!  Don't do this:
+
+//!  It will break the way React Query is set up to work.
+
+//!  That is, errors will no longer go to the onError handler.
+
+//! Demo only : simulate a slow request.

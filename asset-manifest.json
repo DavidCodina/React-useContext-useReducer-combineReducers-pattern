@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/React-useContext-useReducer-combineReducers-pattern/static/css/main.c61625ad.chunk.css",
-    "main.js": "/React-useContext-useReducer-combineReducers-pattern/static/js/main.86998f6b.chunk.js",
-    "main.js.map": "/React-useContext-useReducer-combineReducers-pattern/static/js/main.86998f6b.chunk.js.map",
+    "main.css": "/React-useContext-useReducer-combineReducers-pattern/static/css/main.465ba750.chunk.css",
+    "main.js": "/React-useContext-useReducer-combineReducers-pattern/static/js/main.e4bf0261.chunk.js",
+    "main.js.map": "/React-useContext-useReducer-combineReducers-pattern/static/js/main.e4bf0261.chunk.js.map",
     "runtime-main.js": "/React-useContext-useReducer-combineReducers-pattern/static/js/runtime-main.2fc246e2.js",
     "runtime-main.js.map": "/React-useContext-useReducer-combineReducers-pattern/static/js/runtime-main.2fc246e2.js.map",
-    "static/js/2.aaab857b.chunk.js": "/React-useContext-useReducer-combineReducers-pattern/static/js/2.aaab857b.chunk.js",
-    "static/js/2.aaab857b.chunk.js.map": "/React-useContext-useReducer-combineReducers-pattern/static/js/2.aaab857b.chunk.js.map",
+    "static/js/2.732888f7.chunk.js": "/React-useContext-useReducer-combineReducers-pattern/static/js/2.732888f7.chunk.js",
+    "static/js/2.732888f7.chunk.js.map": "/React-useContext-useReducer-combineReducers-pattern/static/js/2.732888f7.chunk.js.map",
     "index.html": "/React-useContext-useReducer-combineReducers-pattern/index.html",
-    "static/css/main.c61625ad.chunk.css.map": "/React-useContext-useReducer-combineReducers-pattern/static/css/main.c61625ad.chunk.css.map",
-    "static/js/2.aaab857b.chunk.js.LICENSE.txt": "/React-useContext-useReducer-combineReducers-pattern/static/js/2.aaab857b.chunk.js.LICENSE.txt",
+    "static/css/main.465ba750.chunk.css.map": "/React-useContext-useReducer-combineReducers-pattern/static/css/main.465ba750.chunk.css.map",
+    "static/js/2.732888f7.chunk.js.LICENSE.txt": "/React-useContext-useReducer-combineReducers-pattern/static/js/2.732888f7.chunk.js.LICENSE.txt",
+    "static/js/main.e4bf0261.chunk.js.LICENSE.txt": "/React-useContext-useReducer-combineReducers-pattern/static/js/main.e4bf0261.chunk.js.LICENSE.txt",
     "static/media/bootstrap-icons.css": "/React-useContext-useReducer-combineReducers-pattern/static/media/bootstrap-icons.dfd0ea12.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.2fc246e2.js",
-    "static/js/2.aaab857b.chunk.js",
-    "static/css/main.c61625ad.chunk.css",
-    "static/js/main.86998f6b.chunk.js"
+    "static/js/2.732888f7.chunk.js",
+    "static/css/main.465ba750.chunk.css",
+    "static/js/main.e4bf0261.chunk.js"
   ]
 }
